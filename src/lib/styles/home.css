@@ -1,0 +1,22 @@
+.main {
+    height: 100vh;
+    display: flex;
+    flex-direction: column; /*makes each content place under each other instead of beside each other */
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .title {
+    font-size: 50px;
+  }
+  
+  .title a {
+    color: purple; /* #35e8c5 light green*/
+    text-decoration: none;
+  }
+
+  /* links style */
+  .link a {
+    color: purple;
+    text-decoration: none;
+  }  
