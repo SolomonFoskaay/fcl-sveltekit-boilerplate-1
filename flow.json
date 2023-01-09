@@ -6,7 +6,7 @@
 	},
 	"contracts": {
 		"HelloWorldNow": {
-			"source": "./flow/cadence/contracts/HelloWorldNow.cdc",
+			"source": "./src/flow/cadence/contracts/HelloWorldNow.cdc",
 			"aliases": {
 				"testnet": "0xd687d11ff42f33ed"
 			}
